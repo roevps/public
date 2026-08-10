@@ -1,0 +1,9 @@
+numpy
+pandas
+xarray
+netCDF4
+requests
+scipy
+statsmodels
+matplotlib
+arch
